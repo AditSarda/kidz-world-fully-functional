@@ -327,4 +327,4 @@ cartButton.onclick = () => {
     updatePrice();
     updateWhatsappLink();
     window.open(whatsappLink, "_blank");
-}
+} 
